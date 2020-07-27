@@ -20,7 +20,7 @@ VALUES
   ('Lead Accountant', 100000, 4),
   ('Accountant', 80000, 4);
 
-INSERT INTO department (name)
+INSERT INTO department (department_name)
 VALUES
   ('Sales'),
   ('Legal'),
